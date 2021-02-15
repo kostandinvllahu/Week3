@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FileArray\NumDivision\bin\Debug\netcoreapp2.1\NumDivision.deps.json
+C:\Users\User\source\repos\FileArray\NumDivision\bin\Debug\netcoreapp2.1\NumDivision.runtimeconfig.json
+C:\Users\User\source\repos\FileArray\NumDivision\bin\Debug\netcoreapp2.1\NumDivision.runtimeconfig.dev.json
+C:\Users\User\source\repos\FileArray\NumDivision\bin\Debug\netcoreapp2.1\NumDivision.dll
+C:\Users\User\source\repos\FileArray\NumDivision\bin\Debug\netcoreapp2.1\NumDivision.pdb
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.AssemblyInfo.cs
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.dll
+C:\Users\User\source\repos\FileArray\NumDivision\obj\Debug\netcoreapp2.1\NumDivision.pdb
