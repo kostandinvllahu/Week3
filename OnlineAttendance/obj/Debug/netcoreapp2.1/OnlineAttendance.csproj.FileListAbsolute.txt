@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FileArray\OnlineAttendance\bin\Debug\netcoreapp2.1\OnlineAttendance.deps.json
+C:\Users\User\source\repos\FileArray\OnlineAttendance\bin\Debug\netcoreapp2.1\OnlineAttendance.runtimeconfig.json
+C:\Users\User\source\repos\FileArray\OnlineAttendance\bin\Debug\netcoreapp2.1\OnlineAttendance.runtimeconfig.dev.json
+C:\Users\User\source\repos\FileArray\OnlineAttendance\bin\Debug\netcoreapp2.1\OnlineAttendance.dll
+C:\Users\User\source\repos\FileArray\OnlineAttendance\bin\Debug\netcoreapp2.1\OnlineAttendance.pdb
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.AssemblyInfo.cs
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.dll
+C:\Users\User\source\repos\FileArray\OnlineAttendance\obj\Debug\netcoreapp2.1\OnlineAttendance.pdb

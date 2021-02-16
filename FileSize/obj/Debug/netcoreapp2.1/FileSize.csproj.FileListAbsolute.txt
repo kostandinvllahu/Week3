@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FileArray\FileSize\bin\Debug\netcoreapp2.1\FileSize.deps.json
+C:\Users\User\source\repos\FileArray\FileSize\bin\Debug\netcoreapp2.1\FileSize.runtimeconfig.json
+C:\Users\User\source\repos\FileArray\FileSize\bin\Debug\netcoreapp2.1\FileSize.runtimeconfig.dev.json
+C:\Users\User\source\repos\FileArray\FileSize\bin\Debug\netcoreapp2.1\FileSize.dll
+C:\Users\User\source\repos\FileArray\FileSize\bin\Debug\netcoreapp2.1\FileSize.pdb
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.AssemblyInfo.cs
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.dll
+C:\Users\User\source\repos\FileArray\FileSize\obj\Debug\netcoreapp2.1\FileSize.pdb
