@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week3", "Week3\Week3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumDivision", "NumDivision\NumDivision.csproj", "{5C07352A-7FB8-495D-B483-FA35A2EB17B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineAttendance", "OnlineAttendance\OnlineAttendance.csproj", "{7AA06B83-21D0-4B28-8662-ADBF3122993F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineAttendance", "OnlineAttendance\OnlineAttendance.csproj", "{7AA06B83-21D0-4B28-8662-ADBF3122993F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSize", "FileSize\FileSize.csproj", "{655BCB95-85AD-42CB-B90A-5719EA881884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSize", "FileSize\FileSize.csproj", "{655BCB95-85AD-42CB-B90A-5719EA881884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartesian", "Cartesian\Cartesian.csproj", "{23DD4A61-6A8E-4095-B928-16EEB6625568}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{655BCB95-85AD-42CB-B90A-5719EA881884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{655BCB95-85AD-42CB-B90A-5719EA881884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{655BCB95-85AD-42CB-B90A-5719EA881884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
