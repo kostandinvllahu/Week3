@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSize", "FileSize\FileSi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartesian", "Cartesian\Cartesian.csproj", "{23DD4A61-6A8E-4095-B928-16EEB6625568}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{D96E3328-EA9D-4FDC-9C44-BA8FC46A7FC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23DD4A61-6A8E-4095-B928-16EEB6625568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96E3328-EA9D-4FDC-9C44-BA8FC46A7FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96E3328-EA9D-4FDC-9C44-BA8FC46A7FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96E3328-EA9D-4FDC-9C44-BA8FC46A7FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96E3328-EA9D-4FDC-9C44-BA8FC46A7FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
