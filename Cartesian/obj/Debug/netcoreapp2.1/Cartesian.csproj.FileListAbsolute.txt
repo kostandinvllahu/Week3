@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FileArray\Cartesian\bin\Debug\netcoreapp2.1\Cartesian.deps.json
+C:\Users\User\source\repos\FileArray\Cartesian\bin\Debug\netcoreapp2.1\Cartesian.runtimeconfig.json
+C:\Users\User\source\repos\FileArray\Cartesian\bin\Debug\netcoreapp2.1\Cartesian.runtimeconfig.dev.json
+C:\Users\User\source\repos\FileArray\Cartesian\bin\Debug\netcoreapp2.1\Cartesian.dll
+C:\Users\User\source\repos\FileArray\Cartesian\bin\Debug\netcoreapp2.1\Cartesian.pdb
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.AssemblyInfo.cs
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.dll
+C:\Users\User\source\repos\FileArray\Cartesian\obj\Debug\netcoreapp2.1\Cartesian.pdb
