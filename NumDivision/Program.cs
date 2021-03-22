@@ -4,24 +4,37 @@ namespace NumDivision
 {
     class Program
     {
+       
         static void Main(string[] args)
-        {
-            Console.WriteLine("Pjestim dy nr");
-            Console.WriteLine("=====RREGULLAT=====\n" +
-                "1. Nje nr nuk mund te pjestohet me zero");
-            Console.WriteLine("Vendos dy numra per tu pjestuar: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            try
             {
-                int total = num1 / num2;
-                Console.WriteLine(total);
-            }
+            Boolean check = false;
+            int number1 = 0;
+            int number2 = 0;
+            int result = 0;
 
-            catch (System.DivideByZeroException e){
-                Console.WriteLine(String.Concat(e.Message, e.StackTrace));
-                Console.WriteLine("Nuk lejohet nr te pjestohet me zero");
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Enter 2 numbers to be divided *A NUMBER CAN NOT BE DIVIDED BY ZERO*");
+                    Console.WriteLine("Enter first number: ");
+                    number1 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Enter second number: ");
+                    number2 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine(" ");
+                    result = number1 / number2;
+                    Console.WriteLine("Result: " + result);
+                    check = false;
+                }
+                catch (System.Exception e)
+                {
+                    check = true;
+                    Console.WriteLine(" ");
+                    Console.WriteLine("Nuk lejohet nr te pjestohet me zero ose karaktere");
+                    Console.WriteLine(" ");
+                }
+            } while (check == true);
             }
-        }
+        
     }
 }

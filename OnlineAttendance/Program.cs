@@ -11,7 +11,7 @@ namespace OnlineAttendance
             Console.WriteLine("Enter name: ");
             name = Console.ReadLine();
 
-            if (name == "Jack" || name == "Steven" || name == "Mathew")
+            if (name.ToUpper() == "Jack".ToUpper() || name.ToUpper() == "Steven".ToUpper() || name.ToUpper() == "Mathew".ToUpper())
             {
                 Console.WriteLine("User is baned");
                 Console.WriteLine("Sending email to administrator");
